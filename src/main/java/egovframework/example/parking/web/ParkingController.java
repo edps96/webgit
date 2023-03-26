@@ -84,6 +84,8 @@ public class ParkingController {
 		Map<String, Object> resultMap = new HashMap<String, Object>();
 		
 		
+		
+		
 		resultMap.put("result", true);
 		resultMap.put("message", "성공");
 		
