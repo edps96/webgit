@@ -86,6 +86,8 @@ public class ParkingController {
 		
 		
 		
+		
+		
 		resultMap.put("result", true);
 		resultMap.put("message", "성공");
 		
